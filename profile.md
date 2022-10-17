@@ -9,8 +9,8 @@ I specialize in UI Design mostly but for the past few months, React Native has b
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [Behance](http://be.net/joeokat)
 * ✉️  You can contact me at [joeokat@gmail.com](mailto:joeokat@gmail.com)
-* 🚀  I'm currently working on [My NFT App](http://instagram)
-* 🧠  I'm learning React Native
+* 🚀  I'm currently working on [Portfolio](http://instagram)
+* 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am basically a Tech enthusiat
 
