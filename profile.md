@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my Github Profile, my name is Joshua
 ==============================================================================================================================
 
-UIUX Design
+UX Engineer
 -----------
 
 I specialize in UI Design mostly but for the past few months, React Native has been my life. I'm a self-taught, passionate UI / UX Designer interested in working for Startups in tech. Please feel free to contact me via LinkedIn. I'm always looking forward to an insightful conversation related to business and product development.
