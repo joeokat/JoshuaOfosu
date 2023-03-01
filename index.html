@@ -89,13 +89,38 @@
       </div>
     </header>
     <main id="main">
-      <div class="wrapper">
-        <h1>
-          Hello! Nice to meet you, <br />
-          I'm Joshua ofosu.
-        </h1>
-        <p>Lorem</p>
-      </div>
+      <section class="hero">
+        <div class="wrapper hero_wrapper">
+          <picture class="hero_image">
+            <source
+              media="(min-width: 62.5em)"
+              srcset="/assets/images/myimg.jpg"
+            />
+
+            <source
+              media="(min-width: 37.5em)"
+              srcset="/assets/images/myself1.jpeg"
+            />
+
+            <img
+              src="/assets/images/myself.jpg"
+              alt="picture of
+            Joshua"
+              height="343"
+            />
+          </picture>
+          <div class="hero_text">
+            <h1 class="hero_headline">
+              Hello! Nice to meet you, <br />
+              I'm Joshua Ofosu.
+            </h1>
+            <p class="description">
+              Based in Ghana, I'm a self-taught, passionate UI / UX Designer and
+              Frontend Web Developer building web apps that users love.
+            </p>
+          </div>
+        </div>
+      </section>
     </main>
     <footer></footer>
   </body>
