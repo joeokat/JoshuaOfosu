@@ -16,9 +16,9 @@ I specialize in UI Design mostly but for the past few months, NuxtJS has been my
 
 <p align="left">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/84/vue-js.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/50/vuetify.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/50/nuxt.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/84/vue-js.svg" width="36" height="36" alt="VueJS" /></a>
+<a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/50/vuetify.svg" width="36" height="36" alt="Vuetify" /></a>
+<a href="https://cdnlogo.com/logo/nuxt-square_26053.html" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/n/43/nuxt-square.svg" width="36" height="36" alt='NuxtJS' /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
