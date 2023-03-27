@@ -29,4 +29,4 @@ I specialize in UI / UX Design mostly but for the past few months, Vuetify has b
 
 ### Support Me
 
-<a href="https://p.hbtl.co/7rWZgS"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://bit.ly/3T6BL3b"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
