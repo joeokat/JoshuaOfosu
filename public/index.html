@@ -4,79 +4,96 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
     <title>Joshua | Portfolio</title>
   </head>
-  <body>
+  <body class="bg-my-background text-my-white">
     <!--content wrapper-->
     <div>
       <!--nav starts-->
-      <nav>
-        <div>
-          <h1>
-            <a href="/">JoeOkat</a>
-          </h1>
-        </div>
-        <ul>
-          <li>
-            <a href="#">
-              <span>Profile</span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <span>Skills</span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <span>Portfolio</span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <span>Contact</span>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <span>Resume</span>
-            </a>
-          </li>
-        </ul>
-        <!--nav ends-->
-      </nav>
-      <main>
+      <div class="px-16 py-6">
+        <nav class="flex justify-between">
+          <div>
+            <h1 class="font-bold uppercase text-2xl">
+              <a href="/">JoeOkat</a>
+            </h1>
+          </div>
+          <ul class="flex font-medium">
+            <li class="mr-5">
+              <a href="#">
+                <span>Profile</span>
+              </a>
+            </li>
+            <li class="mr-5">
+              <a href="#">
+                <span>Skills</span>
+              </a>
+            </li>
+            <li class="mr-5">
+              <a href="#">
+                <span>Portfolio</span>
+              </a>
+            </li>
+            <li class="mr-5">
+              <a href="#">
+                <span>Contact</span>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <span>Resume</span>
+              </a>
+            </li>
+          </ul>
+          <!--nav ends-->
+        </nav>
+      </div>
+      <main class="px-24 py-6">
         <!--Hero section-->
-        <div>
+        <div class="flex align-center mt-16">
           <!--social overflow-->
           <div>
             <ul>
               <!--social icons-->
-              <li><a href="">Behance</a></li>
-              <li><a href="">Figma</a></li>
-              <li><a href="">Github</a></li>
-              <li><a href="">LinkedIn</a></li>
+              <li class="pb-2">
+                <a href=""><img src="./assets/behance.svg" alt="" /></a>
+              </li>
+              <li class="pb-2">
+                <a href=""></a><img src="./assets/figma.svg" alt="" />
+              </li>
+              <li class="pb-2">
+                <a href=""></a><img src="./assets/github.svg" alt="" />
+              </li>
+              <li class="pb-2">
+                <a href=""></a><img src="./assets/linkedin.svg" alt="" />
+              </li>
+              <li class="pb-4">
+                <a href=""></a><img src="./assets/twitter.svg" alt="" />
+              </li>
             </ul>
-            <p>Follow me</p>
-          </div>
-          <p>Hello! I am</p>
-          <h1>Joshua Ofosu</h1>
-          <div>
-            <h3>UI Engineer</h3>
-            <ul>
-              <li>Programmer</li>
-              <li>UI Designer</li>
-              <li>Web Developer</li>
-            </ul>
+            <p class="rotate-90">Follow me</p>
           </div>
           <div>
-            <a href="#">Get Resume</a>
-            <a href="#">About Me</a>
+            <p class="text-2xl font-medium text-my-yellow">Hello! I am</p>
+            <h1 class="text-7xl text-white font-semibold pb-6">Joshua Ofosu</h1>
+            <div class="text-lg">
+              <h3 class="text-3xl font-semibold text-my-yellow">UI Engineer</h3>
+              <ul class="flex mb-6">
+                <li class="mr-4">UI/UX Designer</li>
+                <li class="mr-4">App Designer</li>
+                <li class="mr-4">Web Developer</li>
+                <li>Programmer</li>
+              </ul>
+            </div>
+            <div>
+              <a class="mr-2" href="#">Get Resume</a>
+              <a href="#">About Me</a>
+            </div>
           </div>
           <!--Hero ends-->
         </div>
         <!--About start-->
-        <div>
+        <div class="mt-48">
           <!--overflow-->
           <p>About Me</p>
           <div>
@@ -106,7 +123,7 @@
           <!--About ends-->
         </div>
         <!--Skills start-->
-        <div>
+        <div class="mt-48">
           <!--overflow-->
           <p>My Skills</p>
           <ul>
@@ -243,7 +260,7 @@
           <!--Hobbies end-->
         </div>
         <!--Portfolio-->
-        <div>
+        <div class="mt-48">
           <p>Portfolio</p>
           <a href="">Web</a>
           <a href="">Design</a>
@@ -314,7 +331,7 @@
           <a href="">Show more</a>
         </div>
         <!--Contact-->
-        <div>
+        <div class="mt-48">
           <!--overflow-->
           <p>Contact</p>
           <div>
@@ -346,9 +363,9 @@
           </div>
         </div>
         <!--Footer-->
-        <footer>
-          <div>
-            <a href=""><img src="" /> Star</a>
+        <footer class="flex justify-between mt-48">
+          <div class="flex">
+            <a class="mr-5" href=""><img src="" /> Star</a>
             <a href=""><img src="" /> Fork</a>
           </div>
           <div>

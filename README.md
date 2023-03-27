@@ -2,7 +2,7 @@
 
 ## Aspiring UI Engineer
 
-I specialize in UI Design mostly but for the past few months, NuxtJS has been my life. I'm a self-taught, passionate UI Designer interested in working for Startups and other companies. I am trying to be more creative and unique with Figma, Tailwind CSS, Vuetify and VueJS and NuxtJS. Please feel free to connect with me via LinkedIn. I'm always looking forward to an insightful conversation related to business and product development.
+I specialize in UI Design mostly but for the past few months, NuxtJS has been my life. I'm a self-taught, passionate UI Designer interested in working for Startups and other companies. I am trying to be more creative and unique with Figma, Tailwind CSS, Vuetify, VueJS and NuxtJS. Please feel free to connect with me via LinkedIn. I'm always looking forward to an insightful conversation related to business and product development.
 
 - 🌍  I'm based in Accra, Ghana
 - 🖥️  See my UX Portfolio at [Behance](http://be.net/joeokat)
@@ -30,4 +30,4 @@ I specialize in UI Design mostly but for the past few months, NuxtJS has been my
 
 ### Support Me
 
-<a href="https://bit.ly/3T6BL3b"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="#"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
