@@ -2,14 +2,14 @@
 
 ## Aspiring UI Engineer
 
-I specialize in UI Design mostly but for the past few months, NuxtJS has been my life. I'm a self-taught, passionate UI Designer interested in working for Startups and other companies. I am trying to be more creative and unique with Figma, Tailwind CSS, Vuetify and Vue's metaframework: NuxtJS. Please feel free to connect with me via LinkedIn. I'm always looking forward to an insightful conversation related to business and product development.
+I specialize in UI Design mostly but for the past few months, NuxtJS has been my life. I'm a self-taught, passionate UI Designer interested in working for Startups and other companies. I am trying to be more creative and unique with Figma, Tailwind CSS, Vuetify and VueJS and NuxtJS. Please feel free to connect with me via LinkedIn. I'm always looking forward to an insightful conversation related to business and product development.
 
 - 🌍  I'm based in Accra, Ghana
 - 🖥️  See my UX Portfolio at [Behance](http://be.net/joeokat)
-- ✉️  You can contact me at [joeokat@gmail.com](mailto:joeokat@gmail.com)
-- 🚀  I'm currently working on [my Portfolio](http://github.com/joeokat)
+- 🚀  I'm currently working on my [Github Portfolio](http://github.com/joeokat)
 - 🧠  I'm learning Nuxt JS and Tailwind CSS
 - 🤝  I'm open to collaborating on interesting projects
+- ✉️  You can contact me at [joeokat@gmail.com](mailto:joeokat@gmail.com)
 - ⚡  I am basically a Tech enthusiat.
 
 ### Skills
@@ -18,6 +18,7 @@ I specialize in UI Design mostly but for the past few months, NuxtJS has been my
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/84/vue-js.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://vuetifyjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/50/vuetify.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/v/50/nuxt.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
