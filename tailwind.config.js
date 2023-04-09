@@ -4,7 +4,7 @@ module.exports = {
     colors: {
       "my-background": "#101010",
       "my-yellow": "#ffbb1c",
-      "my-white": "#fafafa",
+      "my-white": "#dcdcdc",
       "my-shadow": "#212121",
     },
     extend: {},
