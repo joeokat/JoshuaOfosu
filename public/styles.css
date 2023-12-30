@@ -1,11 +1,11 @@
-/* Globals */
+/* Global CSS */
 
 /* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;800&family=Poppins:wght@300;400;500;700&display=swap'); */
 
-  --backgroundColor { background : #101010 };
-  --accent { color: #ffbb1c };
-  --textColor {color: #dcdcdc };
-  --shadow { color: #212121 };
+--backgroundColor { background-color : #101010 };
+--accent { color: #ffbb1c };
+--textColor {color: #dcdcdc };
+--shadow { color: #212121 };
 
 html {
   margin: 0;
@@ -41,9 +41,12 @@ a, a:active, a:visited {
 /* CSS */
 
 .wrapper {
-  max-width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1440px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 120px;
 }
 
 .nav--bar{
@@ -51,4 +54,10 @@ a, a:active, a:visited {
   justify-content: space-between;
   align-items: center;
   padding: 20px 0;
+}
+
+ul li {
+  display: flex;
+  flex-direction: row;
+
 }
