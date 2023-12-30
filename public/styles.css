@@ -1,0 +1,54 @@
+/* Globals */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;800&family=Poppins:wght@300;400;500;700&display=swap'); */
+
+  --backgroundColor { background : #101010 };
+  --accent { color: #ffbb1c };
+  --textColor {color: #dcdcdc };
+  --shadow { color: #212121 };
+
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: Poppins, Sora, Arial, Helvetica, sans-serif;
+  background: var(--backgroundColor);
+  color: var(--textColor);
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+  line-height: 1.1;
+  font-weight: 700;
+}
+
+p {
+  margin-top: 0;
+}
+
+a, a:active, a:visited {
+  color: var(--textColor);
+  text-decoration: none;
+}
+
+/* CSS */
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.nav--bar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
