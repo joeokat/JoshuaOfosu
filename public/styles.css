@@ -2,10 +2,12 @@
 
 /* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;800&family=Poppins:wght@300;400;500;700&display=swap'); */
 
---backgroundColor { background-color : #101010 };
---accent { color: #ffbb1c };
---textColor {color: #dcdcdc };
---shadow { color: #212121 };
+:root {
+  --backgroundColor: #101010;
+  --accent: #ffbb1c;
+  --textColor: #dcdcdc;
+  --shadow: #212121;
+ }
 
 html {
   margin: 0;
@@ -41,23 +43,107 @@ a, a:active, a:visited {
 /* CSS */
 
 .wrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 1440px;
+  max-width: 100%;
+  padding: 0 20px;
   margin: 0 auto;
-  padding: 0 120px;
 }
-
 .nav--bar{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 0;
+  padding: 25px 0;
 }
-
-ul li {
+.nav--logo {
+  font-size: x-large;
+  font-weight: 700;
+}
+.nav--links {
   display: flex;
-  flex-direction: row;
-
+  align-items: center;
+  gap: 1.5rem;
+  list-style-type: none;
 }
+.resume {
+  border: 2px solid var(--accent);
+  border-radius: 6px;
+  padding: 6px 12px;
+}
+
+
+.user--profile {
+  display: flex;
+  /* align-items: center; */
+  width: 75rem;
+  padding: 150px 25px 100px 125px;
+  margin: 0 auto;
+}
+.social--icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2.5rem;
+  position: absolute;
+  left: 35px;
+  top: 245px;
+}
+.social--icons ul {
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  list-style-type: none;
+  margin: 0;
+}
+.social--icons  p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 8px 16px;
+  transform: rotate(-90deg);
+  border-radius: 6px;
+  background: var(--shadow);
+}
+.social--icons > p::after {
+  width: 2px;
+  height: 320px;
+  position: absolute;
+  left: 62.31px;
+  top: 15px;
+  background: var(--accent);
+} 
+
+.greetings {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: var(--accent);
+}
+.full--name {
+  color: #fafafa;
+  font-size: 4.5rem;
+  font-weight: 600;
+  line-height: 2rem;
+}
+.job--role {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.job--skills {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  margin-left: 0;
+  padding-left: 0;
+}
+.job--skills li:first-child {
+  list-style-type: none;
+  
+ }
+.job--skills li::marker {
+  color: var(--accent);
+ }
