@@ -12,10 +12,11 @@
   </head>
 
   <body>
-    <!--content wrapper-->
-    <div class="wrapper">
-
-      <!--nav starts-->
+    <!--content of body-->
+    <div class="container">   
+      <!--content wrapper-->
+      <main class="wrapper">
+        <!--nav starts-->
         <nav class="nav--bar">
           <div class="nav--logo">
               <a href="/">JoeOkat</a>
@@ -49,10 +50,7 @@
           </ul>
           <!--nav ends-->
         </nav>
-      
-      <main>
         <!--Hero section-->
-
         <div class="user--profile">
           <div class="social--icons">
             <ul>
@@ -107,8 +105,8 @@
                 of job opportunity that suits my skills.
               </p>
               <div class="cta">
-                <a class="cta--fill" href="#">Get Resume<img class="download" src="./assets/download.svg" alt="download"/></a>
-                <a class="cta--outline" href="#">My Skills</a>
+                <a id="cta--fill" class="cta--fill" href="#">Get Resume<img class="download" src="./assets/download.svg" alt="download"/></a>
+                <a id="cta--outline" class="cta--outline" href="#">My Skills</a>
               </div>
             </div>
             
@@ -355,18 +353,18 @@
             </div>
           </div>
         </div>
-        <!--Footer-->
-        <footer class="flex justify-between mt-48">
-          <div class="flex">
-            <a class="mr-5" href=""><img src="" /> Star</a>
-            <a href=""><img src="" /> Fork</a>
-          </div>
-          <div>
-            <h3>By JoeOkat</h3>
-            <a href=""><img src="" /></a>
-          </div>
-        </footer>
       </main>
+      <!--Footer-->
+      <footer class="footer">
+        <div class="github">
+          <a href=""><img src="" /> Star</a>
+          <a href=""><img src="" /> Fork</a>
+        </div>
+        <div class="copyright">
+          <h3>By JoeOkat</h3>
+          <a href=""><img src="" /></a>
+        </div>
+      </footer>
     </div>
   </body>
 </html>
