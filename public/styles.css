@@ -222,6 +222,9 @@ a, a:active, a:visited {
   border-radius: 10px;
 }
 
+.contact {
+  display: flex;
+}
 
 .footer {
   display: flex;
@@ -249,10 +252,11 @@ a, a:active, a:visited {
   gap: 8px;
   margin: 0;
 }
-.copyright a {
+.cheveron {
   display: flex;
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
+  margin-left: 16px;
   background-color: var(--accent);
 }
