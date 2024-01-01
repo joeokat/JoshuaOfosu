@@ -40,9 +40,13 @@ a, a:active, a:visited {
   text-decoration: none;
 }
 
+.cta--outline:hover {
+  color: var(--shadow);
+  background-color: var(--accent);
+  transition: ease-in 200ms;
+}
+
 /* CSS */
-
-
 .wrapper {
   max-width: 100%;
   padding: 0 100px;
@@ -225,4 +229,30 @@ a, a:active, a:visited {
   justify-content: space-between;
   padding: 50px 120px;
   background-color: var(--shadow);
+  flex-direction: row-reverse;
+}
+.github {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+}
+.github a {
+  display: flex;
+  gap: 8px;
+}
+.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+}
+.copyright a {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: var(--accent);
 }
