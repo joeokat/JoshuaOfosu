@@ -199,6 +199,11 @@ a, a:active, a:visited {
   line-height: 36px;
   max-width: 600px;
  }
+ .download {
+  margin-left: 0.5rem;
+  height: 24px;
+  width: 24px;
+ }
 .about--img {
   display: flex;
   padding: 0px 102.5px;
