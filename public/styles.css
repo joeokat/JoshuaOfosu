@@ -187,9 +187,7 @@ a, a:active, a:visited {
   color: var(--accent);
   border: 2px solid var(--accent);
  }
- .about--myself{
-  padding-right: 100px;
- }
+ 
  .about {
   display: flex;
   width: 1200px;
@@ -199,7 +197,7 @@ a, a:active, a:visited {
   font-size: 1.2rem;
   font-weight: 400;
   line-height: 36px;
-  max-width: 528px;
+  max-width: 600px;
  }
 .about--img {
   display: flex;
@@ -212,34 +210,3 @@ a, a:active, a:visited {
   height: 300px;
   border-radius: 10px;
 }
-.about--label {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 4px 16px;
-  transform: rotate(90deg);
-  border-radius: 6px;
-  position: absolute;
-  right: 35px;
-  top: 100px;
-  background: var(--shadow);
-}
-.about--label p {
-  /* align-items: center;
-  justify-content: center; */
-  margin: 0;
-  font-size: 1.2rem;
-  font-weight: 700;
-  text-transform: uppercase;
-}
-.about--label::after {
-  content: " ";
-  transform: rotate(-90deg);
-  width: 2px;
-  height: 50px;
-  background: var(--shadow);
-  position: absolute;
-  right: 35px;
-  top: 100px;
-} 
