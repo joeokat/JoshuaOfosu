@@ -248,18 +248,17 @@ a, a:active, a:visited {
   gap: 2.5rem;
   margin: 100px 0;
 }
-/* .skill--set {
+.skill--set {
   display: flex;
   justify-content: space-between;
-} */
+}
 .skills {
   display: flex;
   flex-direction: column;
   gap: 2rem;
-  
 }
 .figma--container{
-  width: 50%;
+  width: 34rem;
 }
 .figma {
   display: flex;
@@ -289,7 +288,7 @@ a, a:active, a:visited {
 .hobbies {
   display: flex;
   justify-content: center;
-  gap: 2rem;
+  justify-content: space-between;
 }
 .hobby {
   display: flex;
