@@ -67,6 +67,8 @@ a, a:active, a:visited {
   padding: 0 100px;
   margin: 0 auto;
 }
+
+/* NAV SECTION */
 .nav--bar{
   display: flex;
   justify-content: space-between;
@@ -89,6 +91,7 @@ a, a:active, a:visited {
   padding: 6px 12px;
 }
 
+/* HERO SECTION */
 .user--profile {
   display: flex;
   align-items: center;
@@ -209,6 +212,7 @@ a, a:active, a:visited {
   border: 2px solid var(--accent);
  }
  
+/* ABOUT SECTION */
  .about {
   display: flex;
   width: 1200px;
@@ -217,7 +221,7 @@ a, a:active, a:visited {
  .myself {
   font-size: 1.2rem;
   font-weight: 400;
-  line-height: 36px;
+  line-height: 2.25rem;
   max-width: 600px;
  }
  .download {
@@ -237,11 +241,42 @@ a, a:active, a:visited {
   border-radius: 10px;
 }
 
+/* SKILL SECTION */
+
+
+/* HOBBY SECTION */
+.hobby--container {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  margin: 100px 0;
+}
+.hobbies {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.hobby {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  gap: 0.5rem;
+  border-radius: 6px;
+  padding: 45px 25px;
+  background-color: var(--shadow);
+}
+
+/* PORTFOLIO SECTION */
 .portfolio {
   display: flex;
   flex-direction: column;
 }
+.portfolio a {
+  width: 9rem;
+  align-self: center;
+}
 
+/* CONTACT SECTION */
 .contact {
   display: flex;
   flex-direction: column;
@@ -256,6 +291,9 @@ a, a:active, a:visited {
   display: block;
   width: 31.25rem;
 }
+.contact--me p {
+  line-height: 2.25rem;
+}
 .contact--me a {
   margin-top: 2rem;
   width: 9rem;
@@ -267,13 +305,15 @@ a, a:active, a:visited {
 .contact--address h4 {
   margin: 0;
   line-height: 28px;
-  font-size: 26px;
+  font-size: 1.6rem;
   font-weight: 700;
 }
 .contact--address span {
   color: #918e9b;
 }
 
+
+/* CSS */
 .footer {
   display: flex;
   align-items: center;
