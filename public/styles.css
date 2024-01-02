@@ -242,7 +242,42 @@ a, a:active, a:visited {
 }
 
 /* SKILL SECTION */
-
+.my--skills {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+  margin: 100px 0;
+}
+/* .skill--set {
+  display: flex;
+  justify-content: space-between;
+} */
+.skills {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  
+}
+.figma--container{
+  width: 50%;
+}
+.figma {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  padding: 25px 25px;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+  background-color: var(--shadow);
+}
+.figma p {
+  font-weight: 700;
+  padding: 8px;
+  border-radius: 4px;
+  color: var(--shadow);
+  background-color: var(--accent);
+}
 
 /* HOBBY SECTION */
 .hobby--container {
