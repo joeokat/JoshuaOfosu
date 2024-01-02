@@ -46,6 +46,21 @@ a, a:active, a:visited {
   transition: ease-in 200ms;
 }
 
+.container--label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  width: 10rem;
+  margin: 0;
+  padding: 0.5rem 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: var(--shadow);
+}
+
+
 /* CSS */
 .wrapper {
   max-width: 100%;
@@ -222,8 +237,41 @@ a, a:active, a:visited {
   border-radius: 10px;
 }
 
+.portfolio {
+  display: flex;
+  flex-direction: column;
+}
+
 .contact {
   display: flex;
+  flex-direction: column;
+  padding: 5rem 0;
+  gap: 2.5rem;
+}
+.contact--details {
+  display: flex;
+  gap: 2rem;
+}
+.contact--me {
+  display: block;
+  width: 31.25rem;
+}
+.contact--me a {
+  margin-top: 2rem;
+  width: 9rem;
+}
+.contact--address{
+  display: block;
+  width: 31.25rem;
+}
+.contact--address h4 {
+  margin: 0;
+  line-height: 28px;
+  font-size: 26px;
+  font-weight: 700;
+}
+.contact--address span {
+  color: #918e9b;
 }
 
 .footer {
